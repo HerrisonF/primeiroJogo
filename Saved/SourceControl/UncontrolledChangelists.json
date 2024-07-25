@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Maps/MAP_Duel.umap",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Background/T_Background.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Background/T_Background_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Misc/T_Cross.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Misc/T_Cross_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Misc/T_Exclamation.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Misc/T_Exclamation_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Attack.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Defeated.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Idle.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Attack.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Attack_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Defeated.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Idle.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Assets/Toad/T_Toad_Idle_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/BP_Tanuki.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/BP_Samurai.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/BP_Samurai_Tanuki.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/BP_Samurai_Toad.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/GM_Duel.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/Enums/E_Phases.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Blueprints/BP_Exclamation.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Inputs/Actions/IA_Attack.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/PrimeiroJogo/Content/Inputs/IMC_Duel.uasset"
+			]
+		}
+	]
+}
